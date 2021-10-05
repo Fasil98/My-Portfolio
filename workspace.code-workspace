@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Learning Challenge"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My Portfolio"
+	}
+}
